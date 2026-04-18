@@ -1,5 +1,7 @@
 ### ictye's profile
 
+[![wakatime](https://wakatime.com/badge/user/0592da6e-262c-405c-b5dd-67d2ea98414d.svg)](https://wakatime.com/@0592da6e-262c-405c-b5dd-67d2ea98414d)
+
 这里是楚天寻箫的GitHub账号，很高兴在这里相遇
 
 目前活跃于哔哩哔哩和X（twitter）
@@ -20,5 +22,5 @@
 - edgeneko.com
                                                                                
 ![Ictye's GitHub stats](https://github-readme-stats.vercel.app/api?username=northgreen&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northgreen)]
-[![Ictye's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=northgreen)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northgreen)
+![Ictye's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=northgreen)

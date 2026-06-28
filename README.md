@@ -7,20 +7,27 @@
 目前活跃于哔哩哔哩和X（twitter）
 
 公开笔记：https://northgreen.github.io/ictye-public-note/
+公开博客：https://northgreen.github.io/
 
-我只是个做一些喜欢的项目的学生罢了，也不算大佬
+我只是个做一些喜欢的项目的学生罢了，也不算大佬，主要是玩的c++、Dotnet、前端等等
 
-主要是玩的python和c++、Dotnet、前端等等
+最近的话更多是在开发自己的独立（同人）游戏虽然没有想好，我也不会美术QAQ
 
-最近的话更多是在开发自己的独立（同人）游戏~~
+项目纯粹由兴趣驱动开发，可能没有有用的东西，更多是为了个人探索
 
-要是有兴趣，可以参加我的项目：
-- https://github.com/northgreen/ictye-live-dm ：致力于打造一个插件式弹幕姬框架，以适配所有现存所有直播平台，并且给予更好的直播间信息流分析和处理解决方案和互动玩法实现方案
-- https://github.com/northgreen/bilibili_dm_plugin ：基于ictye live dm的一个示范性的插件，用以对接哔哩哔哩直播平台
+没有什么精力去维护之前的弹幕姬项目了，bilibili上没有流量又没有其他我必须维护它的理由，
+如果说是这样子的话倒是不如搞搞自己的小项目了，有些东西只是因为它在哪里就会成为负担，
+无论它的对错，这是一个必然的结果
+
+我知道在这里写一些阴暗的话会让我看起来很黑深残，但是我心里真的已经很累了，夜里一间不开灯的
+房子里面不会发光的
+
 
 友情鏈接：
 - edgeneko.com
                                                                                
 ![Ictye's GitHub stats](https://github-readme-stats.vercel.app/api?username=northgreen&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northgreen)
+
 ![Ictye's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=northgreen)
